@@ -1,1 +1,1 @@
-# pactory
+# Pactory is AI agent marketplace
